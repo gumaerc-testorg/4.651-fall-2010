@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 543341c9-b471-7bdd-81a9-53675fddf3d6
 resourcetype: Document
 title: MIT4_651F10_exam1.pdf
 uid: 41c15d5d-666f-b526-c8c8-82446c499734

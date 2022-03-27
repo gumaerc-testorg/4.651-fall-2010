@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 543341c9-b471-7bdd-81a9-53675fddf3d6
 resourcetype: Document
 title: MIT4_651F10_paper1.pdf
 uid: a58fb454-6de4-d95d-29c2-ccbe6e8cc9c9
