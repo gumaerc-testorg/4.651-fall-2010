@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, requirements, readings, grading, and honor policy for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +26,7 @@ To learn this subject, you will be expected to attend class meetings, do a good 
 Readings
 --------
 
-There is no one textbook for this course, but there are extensive readings from several books. Other recommended texts are useful for background or for further reading. All readings will be available on the course Web site or held on reserve in the MIT libraries. A complete list of readings by session can be found in the [readings]({{< baseurl >}}/pages/readings) section.
+There is no one textbook for this course, but there are extensive readings from several books. Other recommended texts are useful for background or for further reading. All readings will be available on the course Web site or held on reserve in the MIT libraries. A complete list of readings by session can be found in the {{% resource_link 7fb107d1-4cc3-dba1-f065-4331b54ad822 "readings" %}} section.
 
 Grading
 -------

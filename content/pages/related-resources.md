@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of online resources where you can find images
+  of many of the materials described in the lecture notes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
