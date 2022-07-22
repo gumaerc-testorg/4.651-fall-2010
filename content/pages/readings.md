@@ -1,11 +1,15 @@
 ---
 content_type: page
+description: This section provides information on the required and recommended texts
+  for the course, and the schedule of readings by weekly topic.
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7fb107d1-4cc3-dba1-f065-4331b54ad822
 ---
-
-Required Texts
---------------
+## Required Texts
 
 \[AMA\] = Hopkins, David. _After Modern Art 1945-2000_. Oxford, UK: Oxford University Press, 2000. ISBN: 9780192842343.
 
@@ -13,8 +17,7 @@ Required Texts
 
 \[MIS\] = Jones, Caroline A. _Machine in the Studio: Constructing the Postwar American Artist_. Chicago, IL: The University of Chicago Press, 1998. ISBN: 9780226406497.
 
-Recommended Texts
------------------
+## Recommended Texts
 
 \[AAA\] = Johnson, Ellen. _American Artists on Art from 1940-1980_. New York, NY: Westview Press, 1982. ISBN: 9780064301121.
 
@@ -30,34 +33,19 @@ Cook, Sarah, Beryl Graham, Verina Gfader, and Axel Lapp, eds. _A Brief History o
 
 Stallabrass, Julian. _Contemporary Art: A Very Short Introduction_. New York, NY: Oxford University Press, 2006. ISBN: 9780192806468.
 
-Readings
---------
+## Readings
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction; themes of the '30s
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -67,25 +55,17 @@ Introduction; themes of the '30s
 
 \[TAP\], pp. 1-28.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Surrealism to abstract expressionism
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
 \[NYS\], Introduction and chapters 4-7.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262580083) Hofmann, Hans. "The Search for the Real in the Visual Arts_._" Pp. 40-48 in [_Search for the Real, and Other Essays_](https://mitpress.mit.edu/9780262580083). Edited by Sara T. Weeks, and Bartlett H. Hayes, Jr. Cambridge, MA: MIT Press, 1967. ISBN: 9780262580083.
+![Buy at MIT Press](/images/mp_logo.gif) Hofmann, Hans. "The Search for the Real in the Visual Arts." _Pp. 40-48 in_ [_Search for the Real, and Other Essays_](https://mitpress.mit.edu/9780262580083). Edited by Sara T. Weeks, and Bartlett H. Hayes, Jr. Cambridge, MA: MIT Press, 1967. ISBN: 9780262580083.
 
 \[MIS\], "The Romance of the Studio and the Abstract Expressionist Sublime." pp. 1-41.
 
@@ -93,19 +73,11 @@ Surrealism to abstract expressionism
 
 \[TAP\], pp. 29-71.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Abstract expressionism: from "action" to "field"
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -125,19 +97,11 @@ Rosenberg, Harold. "Parable of American Painting" and "American Action Painters.
 
 Phillips, Lisa. _The Third Dimension: Sculpture of the New York School_. New York, NY: Whitney Museum of American Art, 1984. (Read pp. 9-44 plus entries) ISBN: 9780874270020.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Abstract expressionism abroad: precursor, export, zeitgeist?
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -159,19 +123,11 @@ Guilbaut, Serge. "Disdain for the Stain: Abstract Expressionism and Tachisme." P
 
 Ashton, Dore, ed. _Twentieth-Century Artists on Art_. New York, NY: Pantheon Books, 1986. Read pp. 122, 186, and 203. ISBN: 9780394734897.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Abstract expressionism abroad: the Cold War '50s
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -191,19 +147,11 @@ Albright, Thomas. _Art in the San Francisco Bay Area, 1945-1980_. Berkeley, CA: 
 
 Schulze, Franz. _Fantastic Images: Chicago Art Since 1945_. Chicago, IL: Follett Publishing Co., 1972. Skim and consult pictures.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The '50s into '60s: figuration into neo-Dada
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -219,19 +167,11 @@ Ginsberg, Allen. "Prologue." In _Beat Culture and the New America_. New York, NY
 
 \[NYS\], pp. 140-195.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 '50s (and later): cool art, cold war
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -247,19 +187,11 @@ Haskell, Barbara. _Blam! The Explosion of Pop, Minimalism, and Performance: 1958
 
 \[NYS\], pp. 196-213.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Turning from the '50s: toward "contemporary" art
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -269,19 +201,11 @@ Turning from the '50s: toward "contemporary" art
 
 De Antonio, Emile, and Mitch Tuchman. _Painters Painting: A Candid History of the Modern Art Scene, 1940-1970_. New York, NY: Abbeville Press, 1984. ISBN: 9780896594180.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 60s abstraction, figuration: an industrial aesthetic
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -299,19 +223,11 @@ Meyer, James. _Minimalism: Art and Polemics in the Sixties_. New Haven, CT: Yale
 
 Lobel, Michael. _Image Duplicator: Roy Lichtenstein and the Emergence of Pop Art_. New Haven, CT: Yale University Press, 2002. (More good background) ISBN: 9780300087628.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 International pop to conceptualism
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -327,19 +243,11 @@ Van Bruggen, Coosje. _John Baldessari_. New York, NY: Rizzoli, 1990. ISBN: 97808
 
 Livingstone, Marco. _Pop Art: An International Perspective_. New York, NY: Rizzoli, 1992. (Skim and consult pictures) ISBN: 9780847814756.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 '70s pluralism: conceptual art and performance
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -359,19 +267,11 @@ Matilsky, Barbara. _Fragile Ecologies_. New York, NY: Rizzoli, 1992. ISBN: 97808
 
 Schimmel, Paul. _Out of Actions: Between Performance and the Object, 1949-1979_. New York, NY: Thames and Hudson, 1998. ISBN: 9780500280508.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Process, feminism, identity, and the end of "the mainstream"
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -391,19 +291,11 @@ Jones, Amelia, ed. _Sexual Politics: Judy Chicago's 'Dinner Party' in Feminist A
 
 \[AAA\], pp. 240-249.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 '80s and '90s political art and postmodernism
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -417,7 +309,7 @@ Owens, Craig. "The Discourse of Others: Feminists and Postmodernism." Pp. 166-19
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262731225) Wodiczko, Krzysztof. [_Critical Vehicals_](https://mitpress.mit.edu/9780262731225). Cambridge, MA: MIT Press, 1999. ISBN: 9780262731225.
+![Buy at MIT Press](/images/mp_logo.gif) Wodiczko, Krzysztof. [_Critical Vehicals_](https://mitpress.mit.edu/9780262731225). Cambridge, MA: MIT Press, 1999. ISBN: 9780262731225.
 
 Lippard, Lucy. _Mixed Blessings: New Art in a Multicultural America_. New York, NY: The New Press, 2000. ISBN: 9781565845732.
 
@@ -427,19 +319,11 @@ Robins, Corinne. "Art and Politics." Pp. 37-75 in _The Pluralist Era: American A
 
 Linker, Kate. _Love for Sale: The Words and Pictures of Barbara Kruger_. New York, NY: Harry N. Abrams, 1990. ISBN: 9780810912199.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 '90s installations, politics, and '00s biennial culture
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -453,9 +337,4 @@ Stallabrass, Julian. "New World Order." Pp. 19-49 in _Contemporary Art: A Very S
 
 Abe, Stanley K. "No Questions, No Answers: China and A Book from the Sky." _Boundary_ 225, no. 3 (1998): 169-192.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
