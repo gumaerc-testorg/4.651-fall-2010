@@ -21,7 +21,7 @@ This subject focuses on the objects, history, context, and critical discussion s
 Requirements
 ------------
 
-To learn this subject, you will be expected to attend class meetings, do a good bit of outside reading and looking, view films during class, write two papers (one as part of a midterm), attend any field trips, participate in an in-class debate, and take a final exam. For help with writing, you are encouraged to take advantage of the [writing center](http://cmsw.mit.edu/writing-and-communication-center/). We understand there are different learning styles so please come to office hours or meet with the T.A. to plan a strategy that works for you.
+To learn this subject, you will be expected to attend class meetings, do a good bit of outside reading and looking, view films during class, write two papers (one as part of a midterm), attend any field trips, participate in an in-class debate, and take a final exam. For help with writing, you are encouraged to take advantage of the {{% resource_link "3632a435-b18d-4c17-ac54-92ff1e8d8887" "writing center" %}}. We understand there are different learning styles so please come to office hours or meet with the T.A. to plan a strategy that works for you.
 
 Readings
 --------
