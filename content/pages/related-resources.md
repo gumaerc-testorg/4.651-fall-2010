@@ -10,8 +10,8 @@ uid: b6a33085-721a-e996-6d90-14b9427417b4
 ---
 The following is a list of online resources where you can find images of many of the materials described in the lecture notes.
 
-{{% resource_link "abeececf-2929-40ea-85ea-c14378ca0d0b" "20th Century Art at the WebMuseum, Paris" %}}
+[20th Century Art at the WebMuseum, Paris](http://www.ibiblio.org/wm/paint/tl/20th/)
 
-{{% resource_link "7d10bc13-d04f-454e-9eea-68e2aab3ca15" "ArtStor" %}}
+[ArtStor](http://www.artstor.org/)
 
-{{% resource_link "699f12dc-a79c-4f9d-aa11-49f7d656c144" "The Artchive, Links page" %}}
+[The Artchive, Links page](http://www.artchive.com/links.htm)
